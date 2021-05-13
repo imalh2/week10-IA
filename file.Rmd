@@ -1,0 +1,13 @@
+---
+title: "week 10 tutorial"
+author: "ibrahim"
+date: 13/5/2021
+output:
+  bookdown::html_document2
+---
+
+```{r libraries, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
